@@ -29,7 +29,7 @@ The data is processed with pandas, visualized with matplotlib, and saved to a CS
 
 📂 Project Structure
 
-weather-project
+get_7_day_weather
 │
 ├── main.py
 ├── weather_chart.png
@@ -41,8 +41,8 @@ weather-project
 ⚙️ Installation
 
 Clone the repository:
--git clone https://github.com/your-username/weather-project.git
--cd weather-project
+-git clone https://github.com/your-username/get_7_day_weather.git
+-cd get_7_day_weather
 
 Install the required dependencies:
 -pip install requests pandas matplotlib
